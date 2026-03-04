@@ -1,6 +1,7 @@
 # Yury Egorsky 👋
 
 [https://egorsky.com](https://egorsky.com)
+
 [https://growity.ai](https://growity.ai)
 
 I build **AI products, autonomous agent frameworks, and revenue-generating systems** that actually get work done — not demos or hype. Experienced CEO/CTO bridging **engineering depth and executive strategy**.
